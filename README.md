@@ -19,4 +19,8 @@ Ideias de Projetos:
 
 5. Veículo robótico de combate a incêndio.
 
+Projeto Escolhido
+Robo Higienizador de ambientes controlado por bluetooth
+O robo é controlado pelo usuario sendo possível o controle da direção e acionamento de borrifo de liquido higienizante e um
+alerta de falta carga do borrifador.
 
